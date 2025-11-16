@@ -1,0 +1,10 @@
+{
+  "timetable": {
+    "version": 102,
+    "url": "https://github.com/your-username/your-repo/releases/download/v1.2/TimetableDatabase.db"
+  },
+  "community": {
+    "version": 451,
+    "url": "https://github.com/your-username/your-repo/releases/download/v1.2/CommunityDatabase.db"
+  }
+}
