@@ -8,8 +8,8 @@
     "url": "https://github.com/jisngeorge/SanchariVersions/releases/download/v2-CommunityDB/CommunityDatabase.db"
   },
   "app": {
-    "versionCode": 2,
-    "url": "https://github.com/jisngeorge/SanchariApp/releases/download/v2-Sanchari/Sanchari.apk",
+    "versionCode": 3,
+    "url": "https://github.com/jisngeorge/SanchariApp/releases/download/v3-Sanchari/Sanchari.apk",
     "mandatory": false
   }
 }
