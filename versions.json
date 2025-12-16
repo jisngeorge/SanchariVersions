@@ -1,7 +1,7 @@
 {
   "timetable": {
-    "version": 3,
-    "url": "https://github.com/jisngeorge/SanchariVersions/releases/download/v3-TimetableDB/TimetableDatabase.db"
+    "version": 4,
+    "url": "https://github.com/jisngeorge/SanchariVersions/releases/download/v4-TimetableDB/TimetableDatabase.db"
   },
   "community": {
     "version": 2,
